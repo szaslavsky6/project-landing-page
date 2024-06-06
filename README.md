@@ -1,1 +1,2 @@
 # project-landing-page
+For this proejct I will be creating and entire web page from a design provided by The Odin Project. The purpose of this project is to apply the skills that I have learned so far from The Odin Project. 
