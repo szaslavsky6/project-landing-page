@@ -66,17 +66,24 @@ h1 {
     flex-direction: column;
     width: 50%;
     justify-content: center;
-    align-items: center;
-
-
+    margin-left: 200px;
 }
 
 img {
-    margin: 50px;
+    margin-bottom: 50px;
 }
 
 .p-first {
     font-size: 18px;
     color: #e5e7eb;
-    margin-left: 90px;
+}
+
+.sign-up-first-section {
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 25px;
+    border: 1px #3882f6;
+    border-radius: 5px;
+    margin-top: 10px;
 }
