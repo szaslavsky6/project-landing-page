@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
 
 * {
     margin: 0;
@@ -121,4 +121,27 @@ h2 {
 .p-second {
     text-align: center;
     font-size: 18px;
+}
+
+.third-section {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    text-align: center;
+}
+
+.p-third {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
 }
